@@ -1,0 +1,5 @@
+#api
+flask == 1.0.2
+
+#local model package
+-e /Users/dhyungseoklee/Projects/Model_pipelines/breast_cancer_project/packages/modeling
