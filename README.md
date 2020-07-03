@@ -10,7 +10,7 @@ I made the model very simple with selecting only top 10 features and using SVM f
 
 
 ## Running
-For running Streamlit, run the app with `streamlit run app.py` on the localhost 
+Modularize local packages with `python setup.py develop` first. For running Streamlit, run the app with `streamlit run app.py` on the localhost 
 <br/>
 For running Flask API, set up Flask with `set FLASK_APP = app.py` and run with `python run.py` Flask API doesn't have html template, so I suggest running with Streamlit if anyone wants to play with the app. 
 
