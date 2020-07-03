@@ -1,0 +1,9 @@
+
+
+# streamlit
+streamlit == 0.62.1
+
+
+
+# local model packages
+-e /Users/dhyungseoklee/Projects/Model_pipelines/breast_cancer_project/packages/modeling
